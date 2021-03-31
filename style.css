@@ -1,0 +1,19 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.bg-custom{
+  background-color: #F0FFF0;
+}
+.text-custom{
+  color: #21B573;
+}
+.btn-custom{
+  background-color: #21B573;
+  color: #FFFFFF;
+}
+/* h1 - heading */
+.heading-one{
+  font-size: 48px;
+  line-height: 70px;
+  font-weight: 700;
+}

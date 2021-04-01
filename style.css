@@ -1,19 +1,28 @@
 body{
   font-family: 'Poppins', sans-serif;
 }
-.bg-custom{
+/* background-color */
+.bg-F0FFF0{
   background-color: #F0FFF0;
 }
-.text-custom{
+.bg-21B573{
+  background-color: #21B573;
+}
+/* text-color */
+.text-21B573{
   color: #21B573;
 }
-.btn-custom{
-  background-color: #21B573;
-  color: #FFFFFF;
+.text-FD511A{
+  color: #FD511A;
 }
+.text-6C6B6B{
+  color: #6C6B6B;
+}
+
 /* h1 - heading */
 .heading-one{
   font-size: 48px;
   line-height: 70px;
   font-weight: 700;
+  margin-bottom: 19px;
 }

@@ -5,6 +5,9 @@ body{
 .bg-F0FFF0{
   background-color: #F0FFF0;
 }
+/* .bg-F8FFFB{
+  background-color: #F8FFFB;
+} */
 .bg-21B573{
   background-color: #21B573;
 }
@@ -15,14 +18,33 @@ body{
 .text-FD511A{
   color: #FD511A;
 }
-.text-6C6B6B{
-  color: #6C6B6B;
-}
-
-/* h1 - heading */
+/* .text-413960{
+  color: #413960;
+} */
+/* heading */
 .heading-one{
   font-size: 48px;
   line-height: 70px;
   font-weight: 700;
   margin-bottom: 19px;
+}
+.heading-four{
+  color: #413960;
+  margin-top: 22px;
+}
+
+.category-box{
+  width: 270px;
+  height: 270px;
+  border-radius: 10px;
+  background-color: #F8FFFB;
+}
+.category-box:hover{
+  box-shadow: 5px 5px 40px lightgray;
+  border-radius: 10px;
+  background-color: #FFFFFF;
+}
+.category-area{
+  height: 354px;
+  padding-top: 42px;
 }
